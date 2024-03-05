@@ -1,4 +1,5 @@
 # wps-security-bypass
+#**MUST RUN AS ROOT**
 made for bypass wps lockup bypassing using mdk3 and bully this bash script is so powerfull
 
 REQUIREMENT
