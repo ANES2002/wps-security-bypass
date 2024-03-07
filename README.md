@@ -7,9 +7,10 @@ REQUIREMENT
 2- toilet 
 3- mdk3
 3- terminator
+4- wash
 ----------------
 RECOMMENDED
-apt-get update && apt-get upgrade && apt-get install toilet && apt-get install bully && apt-get install mdk3   && apt-get install terminator
+apt-get update && apt-get upgrade && apt-get install toilet && apt-get install bully && apt-get install mdk3   && apt-get install terminator && apt-get install wash
 
 
 
